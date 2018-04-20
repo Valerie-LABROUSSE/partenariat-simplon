@@ -13,7 +13,9 @@ des formations GRATUITES pour devenir développeur web. "
 
 ### Installation :
 
-Sous wordpress, aller dans extension/ajouter/Téléverser une extension et choisir le plugin "simplon".
+Zipper le fichier "partenariat-simplon.php" contenant le plugin "simplon".
+Ensuite, sous wordpress, aller dans extension/ajouter/Téléverser une extension et sélectionner ce fichier zipé.
+Installer et activer le plugin "simplon".
 
 ### Utilisation :
 
